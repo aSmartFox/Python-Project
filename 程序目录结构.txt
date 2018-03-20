@@ -1,0 +1,45 @@
+mysite/
+├── db.sqlite3
+├── manage.py
+├── mysite
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-35.opt-1.pyc
+│   │   ├── __init__.cpython-35.opt-2.pyc
+│   │   ├── __init__.cpython-35.pyc
+│   │   ├── settings.cpython-35.opt-1.pyc
+│   │   ├── settings.cpython-35.opt-2.pyc
+│   │   ├── settings.cpython-35.pyc
+│   │   ├── urls.cpython-35.opt-1.pyc
+│   │   ├── urls.cpython-35.opt-2.pyc
+│   │   ├── urls.cpython-35.pyc
+│   │   ├── views.cpython-35.pyc
+│   │   ├── wsgi.cpython-35.opt-1.pyc
+│   │   ├── wsgi.cpython-35.opt-2.pyc
+│   │   └── wsgi.cpython-35.pyc
+│   ├── settings.py
+│   ├── urls.py
+│   ├── views.py
+│   └── wsgi.py
+├── nmap
+│   ├── admin.py
+│   ├── __init__.py
+│   ├── migrations
+│   │   ├── __init__.py
+│   │   └── __pycache__
+│   │       └── __init__.cpython-35.pyc
+│   ├── models.py
+│   ├── __pycache__
+│   │   ├── admin.cpython-35.pyc
+│   │   ├── __init__.cpython-35.pyc
+│   │   ├── models.cpython-35.pyc
+│   │   └── views.cpython-35.pyc
+│   ├── templates
+│   │   └── nmap
+│   │       └── index.html
+│   ├── tests.py
+│   └── views.py
+└── __pycache__
+    ├── manage.cpython-35.opt-1.pyc
+    ├── manage.cpython-35.opt-2.pyc
+    └── manage.cpython-35.pyc
